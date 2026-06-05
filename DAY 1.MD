@@ -21,4 +21,4 @@ Connected to the provided Jupyter Notebook environment and executed sample Pytho
 Gained foundational knowledge of Kubernetes, including Pod management and service configuration. 
 Understood the deployment workflow in a Kubernetes cluster. 
 Learned how to access and utilize Jupyter Notebook for coding and experimentation within the assigned environment.
- # # screenshots 
+
